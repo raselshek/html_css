@@ -1,0 +1,13 @@
+h4{
+	color:red;
+}
+h5{
+	color:blue;
+}
+.head5{
+	color:red;
+}
+#head5{
+	color:green;
+}
+.head6,#head6{color:red;}
